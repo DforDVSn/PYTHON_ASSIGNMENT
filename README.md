@@ -1,5 +1,4 @@
 # Assignment 1 – Python Programs  
-Created by **MV Studios Japan**
 
 This repository contains all Python programs required for Assignment 1.  
 Each program is uploaded as a separate `.py` file as instructed.
